@@ -58,28 +58,39 @@ thead{
 }
 /* /paragraph-list-table */
 
+#monitor{
+    background-image: url(/img/monitor.jpg);
+}
+
+#graph{
+    background-image: url(/img/graph.jpg);
+}
+
 .image-interest1{
     width: 270px;
     height: 210px;
-    background-size: cover;
-    background-image: url(/img/monitor.jpg);
+    margin-bottom: 5px;
+    margin-top: 0px;
 }
 
 .image-interest2{
     width: 270px;
     height: 210px;
-    background-size: cover;
-    background-image: url(/img/graph.jpg);
+    margin-bottom: 5px;
 }
 
 .image-description{
     color: white;
     font-weight: bold;
     font-size: 20px;
+    margin-bottom: 20px;
+    margin-left: 20px;
 }
 /* /image-interest */
 
-footer > span{
+.info{
     text-align: center;
     padding: 10px;
+    font-weight: bold;
+    font-style: italic;
 }
