@@ -13,10 +13,13 @@
     padding: 10px;
     margin-top: 40px;    
 }
+/* /section-logo-sfondo */
+
 h1{
     font-size: 50px;
     margin-bottom: 5px;
 }
+/* /title */
 
 h3{
     margin-top: 5px;
@@ -28,6 +31,7 @@ h3{
     font-size: 18px;
     margin-top: 5px;
 }
+/* /article-writer */
 
 p > span{
     background-color: yellow;
@@ -52,8 +56,7 @@ thead{
 .row-lightblue{
     background-color: lightblue;
 }
-
-
+/* /paragraph-list-table */
 
 .image-interest1{
     width: 270px;
@@ -74,8 +77,9 @@ thead{
     font-weight: bold;
     font-size: 20px;
 }
+/* /image-interest */
 
-footer, span{
+footer > span{
     text-align: center;
     padding: 10px;
 }
