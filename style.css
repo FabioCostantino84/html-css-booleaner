@@ -36,3 +36,19 @@ p > span{
 ul{
     padding-left: 10px;
 }
+
+table, td, th, tr {
+    border-spacing: 0;
+    min-width: 300px;
+    font-weight: bold;
+}
+
+thead{
+    background-color: dodgerblue;
+    color: white;
+    text-align: left;
+}
+
+.row-lightblue{
+    background-color: lightblue;
+}
