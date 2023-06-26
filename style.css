@@ -1,0 +1,15 @@
+.sfondo{
+    background-color: rgb(0, 174, 255);
+    width: 100%;
+    height: 10%;
+    background-image: url(/img/pattern.png);
+    background-size: 40%;
+    background-repeat: repeat-x;
+}
+
+#logo{
+    height: 10%;
+    width: 20%;
+    padding: 10px;
+    margin-top: 40px;    
+}
